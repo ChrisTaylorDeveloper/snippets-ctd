@@ -1,0 +1,22 @@
+{
+    "name": "snippets-ctd",
+    "contributes": {
+        "snippets": [
+            {
+                "language": [
+                    "plaintext",
+                    "markdown",
+                    "tex",
+                    "html",
+                    "global",
+                    "all"
+                ],
+                "path": "./snippets/global.json"
+            },
+            {
+                "language": ["php"],
+                "path": "./snippets/php.json"
+            }
+        ]
+    }
+}
