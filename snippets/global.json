@@ -1,9 +1,16 @@
 {
-    ". . . . . . . . . . . . . . . . . . . .": {
+    ". . . . . . . . . . .": {
         "prefix": "..",
         "body": [
             ". . . . . . . . . . . . . . . . . . . ."
         ],
-        "description": "Notes section sub-divider."
+        "description": "Notes page sub-divider."
+    },
+    "---------------------": {
+        "prefix": "__",
+        "body": [
+            "-------------------------------------------------------------------------------"
+        ],
+        "description": "Notes page divider."
     }
 }
